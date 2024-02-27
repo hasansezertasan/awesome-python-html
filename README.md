@@ -72,3 +72,11 @@ A curated list of things related to python-based HTML generation.
 
 * [byteface/ezcron: cron viewer](https://github.com/byteface/ezcron)
 * [drlatech/bottle-dominate](https://github.com/drlatech/bottle-dominate)
+
+## Related projects
+
+If you are into these kinda stuff, check out these projects:
+
+* [liveviews/liveviews: Phoenix LiveView workalikes for different languages and frameworks](https://github.com/liveviews/liveviews)
+* [metaperl/pure-python-web-development: Avoid the CSS/JS/HTML soup - develop web apps entirely in Python](https://github.com/metaperl/pure-python-web-development/)
+
