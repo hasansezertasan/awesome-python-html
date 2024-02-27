@@ -6,6 +6,8 @@ A curated list of things related to python-based HTML generation.
 
 ## Libraries
 
+### Third Party
+
 * [lxml/lxml: The lxml XML toolkit for Python](https://github.com/lxml/lxml)
 * [pyxl4/pyxl4: Extend Python syntax with HTML.](https://github.com/pyxl4/pyxl4)
 * [dropbox/pyxl: A Python extension for writing structured and reusable inline HTML.](https://github.com/dropbox/pyxl)
@@ -67,6 +69,13 @@ A curated list of things related to python-based HTML generation.
 * [maxpert/htmxido: HTMX generation in Python 3 using DSL](https://github.com/maxpert/htmxido)
 * [m-housh/bootstrap_wrapper: A work in progress, a python library(almost) that uses dominate and adds bootstrap capabilities.](https://github.com/m-housh/bootstrap_wrapper)
 * [jaimevp54/htmlBuilder: A beautiful html builder built with python.](https://github.com/jaimevp54/htmlBuilder)
+
+### Focused on form creation
+
+* [wtforms/wtforms: A flexible forms validation and rendering library for Python.](https://github.com/wtforms/wtforms/)
+* [boardpack/reforms: Reforms is a fresh pydantic-based forms validation and rendering library for Python 3.6+.](https://github.com/boardpack/reforms)
+* [Pylons/deform: A Python HTML form library.](https://github.com/Pylons/deform)
+* [BlitzJB/blitz-forms: python library to programmatically generate html forms.](https://github.com/BlitzJB/blitz-forms)
 
 ## Projects using them
 
