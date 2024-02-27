@@ -1,14 +1,3 @@
----
-github-topics:
-    - python
-    - html
-    - hypermedia
-    - html-generation
-    - python-html
-    - no-javascript
-    - html-generator
-    - htmx
----
 # Awesome Python HTML
 
 A curated list of things related to python-based HTML generation.
