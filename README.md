@@ -88,4 +88,4 @@ If you are into these kinda stuff, check out these projects:
 
 * [liveviews/liveviews: Phoenix LiveView workalikes for different languages and frameworks](https://github.com/liveviews/liveviews)
 * [metaperl/pure-python-web-development: Avoid the CSS/JS/HTML soup - develop web apps entirely in Python](https://github.com/metaperl/pure-python-web-development/)
-
+* [css-generator · PyPI](https://pypi.org/project/css-generator/)
