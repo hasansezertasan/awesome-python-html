@@ -69,6 +69,7 @@ A curated list of things related to python-based HTML generation.
 * [maxpert/htmxido: HTMX generation in Python 3 using DSL](https://github.com/maxpert/htmxido)
 * [m-housh/bootstrap_wrapper: A work in progress, a python library(almost) that uses dominate and adds bootstrap capabilities.](https://github.com/m-housh/bootstrap_wrapper)
 * [jaimevp54/htmlBuilder: A beautiful html builder built with python.](https://github.com/jaimevp54/htmlBuilder)
+* [paveldedik/ludic: 🌳 Lightweight framework for building dynamic HTML pages in pure Python.](https://github.com/paveldedik/ludic)
 
 ### Focused on form creation
 
