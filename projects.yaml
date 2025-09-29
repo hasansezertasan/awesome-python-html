@@ -275,6 +275,10 @@ projects:
     github_id: "paveldedik/ludic"
     category: "html-generation"
     labels:
+  - name: "htpy"
+    github_id: "pelme/htpy"
+    category: "html-generation"
+    labels:
   - name: "wtforms"
     github_id: "pallets-eco/wtforms"
     category: "html-form-generation"
