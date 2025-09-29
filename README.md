@@ -10,17 +10,32 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-0-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-68-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/hasansezertasan/awesome-python-html/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/hasansezertasan/awesome-python-html?color=green&label=updated"></a>
 </p>
 
-This curated list contains 0 awesome open-source projects with a total of 0 stars grouped into 0 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/hasansezertasan/awesome-python-html/issues/new/choose), submit a [pull request](https://github.com/hasansezertasan/awesome-python-html/pulls), or directly edit the [projects.yaml](https://github.com/hasansezertasan/awesome-python-html/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 68 awesome open-source projects with a total of 10K stars grouped into 4 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/hasansezertasan/awesome-python-html/issues/new/choose), submit a [pull request](https://github.com/hasansezertasan/awesome-python-html/pulls), or directly edit the [projects.yaml](https://github.com/hasansezertasan/awesome-python-html/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
+## Motivation
+
+> This section is written assuming you "use HTML for web development."
+
+Why use Python to generate HTML...
+
+* You lose type hints, editor support, auto-completion, and all the good stuff in Python when you use template engines.
+* You create more files (HTML templates) and have to manage them. (You also might have to deal with the file system to manage overrides and such.)
+* It's pythonic, a familiar syntax, and you can use all the Python features.
+
 ## Contents
 
+- [Miscellaneous](#miscellaneous) _0 projects_
+- [HTML Generation](#html-generation) _59 projects_
+- [HTML Form Generation](#html-form-generation) _4 projects_
+- [Related Projects](#related-projects) _4 projects_
+- [Others](#others) _1 projects_
 
 ## Explanation
 - 🥇🥈🥉&nbsp; Combined project-quality score
@@ -37,6 +52,194 @@ This curated list contains 0 awesome open-source projects with a total of 0 star
 - ⏱️&nbsp; Last update timestamp on package manager
 - 📥&nbsp; Download count from package manager
 - 📦&nbsp; Number of dependent projects
+
+<br>
+
+## Miscellaneous
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+_If you can think of a more appropriate category for the items below, PRs welcome!_
+
+<br>
+
+## HTML Generation
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+_Projects for generating HTML_
+
+<details><summary><b><a href="https://github.com/Knio/dominate">dominate</a></b> (🥇23 ·  ⭐ 1.8K · 💤) - Dominate is a Python library for creating and manipulating HTML documents..</summary>
+
+
+---
+
+<br>
+
+ _1 projects are hidden because they don't fulfill the minimal requirements._
+
+---
+</details>
+<details><summary><b><a href="https://github.com/byteface/domonic">domonic</a></b> (🥇14 ·  ⭐ 140 · 💤) - Create HTML with python 3 using a standard DOM API. Includes a python port..</summary>
+
+
+---
+
+<br>
+
+ _1 projects are hidden because they don't fulfill the minimal requirements._
+
+---
+</details>
+<details><summary><b><a href="https://github.com/lxml/lxml">lxml</a></b> (🥇33 ·  ⭐ 2.9K · ➕) - The lxml XML toolkit for Python. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+
+- [GitHub](https://github.com/lxml/lxml) (👨‍💻 170 · 🔀 580 · 📥 17K · 📦 590K · ⏱️ 24.09.2025):
+
+	```
+	git clone https://github.com/lxml/lxml
+	```
+</details>
+<details><summary><b><a href="https://github.com/getludic/ludic">ludic</a></b> (🥇17 ·  ⭐ 860 · ➕) - A type-safe HTML template engine for Python. Build dynamic web pages.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/getludic/ludic) (👨‍💻 8 · 🔀 18 · 📥 390 · 📦 14 · 📋 29 - 58% open · ⏱️ 23.08.2025):
+
+	```
+	git clone https://github.com/paveldedik/ludic
+	```
+</details>
+<details><summary><b><a href="https://github.com/codelv/enaml-web">enaml-web</a></b> (🥇14 ·  ⭐ 100 · ➕) - Build interactive websites with enaml. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/codelv/enaml-web) (👨‍💻 6 · 🔀 18 · 📦 14 · 📋 33 - 21% open · ⏱️ 19.03.2025):
+
+	```
+	git clone https://github.com/codelv/enaml-web
+	```
+</details>
+<details><summary><b><a href="https://github.com/tvst/htbuilder">htbuilder</a></b> (🥇14 ·  ⭐ 100 · 💤) - A purely-functional HTML builder for Python. Think JSX rather.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/tvst/htbuilder) (👨‍💻 4 · 🔀 12 · 📦 5.1K · 📋 3 - 66% open · ⏱️ 09.01.2025):
+
+	```
+	git clone https://github.com/tvst/htbuilder
+	```
+</details>
+<details><summary><b><a href="https://github.com/dropbox/pyxl">pyxl</a></b> (🥈12 ·  ⭐ 550 · 💤) - A Python extension for writing structured and reusable inline HTML. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/dropbox/pyxl) (👨‍💻 48 · 🔀 34 · ⏱️ 14.01.2025):
+
+	```
+	git clone https://github.com/dropbox/pyxl
+	```
+</details>
+<details><summary>Show 52 hidden projects...</summary>
+
+- <b><a href="https://github.com/volfpeter/markyp">markyp</a></b> (🥈11 ·  ⭐ 39 · ➕) - Python 3 tools for creating markup documents.
+- <b><a href="https://github.com/Hrabal/TemPy">TemPy</a></b> (🥇16 ·  ⭐ 140 · 💀) - Python Object Oriented Html Templating System. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/leforestier/yattag">yattag</a></b> (🥇15 ·  ⭐ 350 · 💤) - Python library to generate HTML or XML in a readable, concise.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/tylerbakke/MarkupPy">MarkupPy</a></b> (🥇14 ·  ⭐ 11 · ➕) - MarkupPy - An HTML/XML generator. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/BrainStormYourWayIn/sierra">sierra</a></b> (🥈13 ·  ⭐ 90 · ➕) - A Pythonic wraparound of HTML/CSS/JS. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/sanic-org/html5tagger">html5tagger</a></b> (🥈13 ·  ⭐ 32 · 💀) - Create HTML documents from Python. <code><a href="http://bit.ly/3rvuUlR">Unlicense</a></code>
+- <b><a href="https://github.com/apiad/auditorium">auditorium</a></b> (🥈12 ·  ⭐ 83 · 💀) - An HTML+CSS+JS generator from pure Python code. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/keithasaurus/simple_html">simple_html</a></b> (🥈11 ·  ⭐ 50 · ➕) - fast, templateless html generation. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/basxsoftwareassociation/htmlgenerator">htmlgenerator</a></b> (🥈11 ·  ⭐ 41 · 💤) - TL;DR DOM on the server-side. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
+- <b><a href="https://github.com/pyxl4/pyxl4">pyxl4</a></b> (🥈10 ·  ⭐ 89 · 💀) - Extend Python syntax with HTML. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/miyakogi/wdom">wdom</a></b> (🥈10 ·  ⭐ 75 · 💀) - Web technology based GUI library for desktop applications. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/jaimevp54/htmlBuilder">htmlBuilder</a></b> (🥈10 ·  ⭐ 39 · 💀) - A beautiful html builder built with python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/jpsca/jinjax-ui">jinjax-ui</a></b> (🥈10 ·  ⭐ 20 · ➕) - JinjaX UI components. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/srittau/python-htmlgen">python-htmlgen</a></b> (🥈10 ·  ⭐ 17 · 💀) - Python HTML 5 Generator. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/vchan/hyperscript">hyperscript</a></b> (🥈10 ·  ⭐ 10 · 💤) - HyperText with Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/cenkalti/pyhtml">pyhtml</a></b> (🥈9 ·  ⭐ 75 · 💀) - HTML generation library for Python. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/Michael-F-Ellis/htmltree">htmltree</a></b> (🥈9 ·  ⭐ 36 · 💀) - Generalized nested html element tree with recursive rendering. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/LiftoffSoftware/htmltag">htmltag</a></b> (🥈9 ·  ⭐ 22 · 💀) - A Python (2 *and* 3) module for wrapping whatever strings you want.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/MohammadrezaAmani/INUI">INUI</a></b> (🥈9 ·  ⭐ 21 · ➕) - Powerful and Highly Customizable Python Library for UI. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/Parnassius/domify">domify</a></b> (🥈9 ·  ⭐ 7 · ➕) - HTML generator using pure Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/CheeseCake87/pyhead">pyhead</a></b> (🥈9 ·  ⭐ 1 · ➕) - The Python HTML head filler. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/pcarbonn/fast_html">fast_html</a></b> (🥉8 ·  ⭐ 80 · ➕) - Generate HTML conveniently and efficiently in Python. <code><a href="http://bit.ly/37RvQcA">❗️LGPL-3.0</a></code>
+- <b><a href="https://github.com/ejplatform/hyperpython">hyperpython</a></b> (🥉7 ·  ⭐ 58 · 💀) - A small DSL to write HTML in Python. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/timothycrosley/thedom">thedom</a></b> (🥉7 ·  ⭐ 24 · 💀) - A python framework to generate html and JavaScript from reusable.. <code><a href="http://bit.ly/2KucAZR">❗️GPL-2.0</a></code>
+- <b><a href="https://github.com/frodo821/Rattlepy">Rattlepy</a></b> (🥉7 ·  ⭐ 9 · 💀) - A easy-to-use pure python HTML template engine. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/mwd1993/QuykHtml">QuykHtml</a></b> (🥉6 ·  ⭐ 19 · ➕) - A python library that allows you to quickly and easily generate HTML.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/Unviray/pyplater">pyplater</a></b> (🥉6 ·  ⭐ 12 · 💀) - Build html component with python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/mosquito/tagz">tagz</a></b> (🥉6 ·  ⭐ 6 · 💀) - tagz is a html tags builder. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/rorre/liku">liku</a></b> (🥉6 ·  ⭐ 5 · 💤) - Python HTML templating, inspired by modern Web Development. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/bitplorer/uidom">uidom</a></b> (🥉6 ·  ⭐ 3 · 💤) - Blade like HTML Library for Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/mdamien/lys">lys</a></b> (🥉5 ·  ⭐ 77 · 💀) - Simple HTML templating for Python. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/SimonSapin/html5ever-python">html5ever-python</a></b> (🥉5 ·  ⭐ 41 · 💀) - Python bindings for html5ever, using CFFI. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/nosamanuel/cottonmouth">cottonmouth</a></b> (🥉5 ·  ⭐ 15 · 💀) - Pure-Python HTML generation. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
+- <b><a href="https://github.com/quokkaproject/flask-htmlbuilder">flask-htmlbuilder</a></b> (🥉5 ·  ⭐ 11 · 💀) - Builds HTML from Python (recovered from local.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
+- <b><a href="https://github.com/quadrant-newmedia/html_generators">html_generators</a></b> (🥉5 ·  ⭐ 9 · 💀) - Functional, streaming HTML generation. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/lxndrdagreat/phlex">phlex</a></b> (🥉5 · 💀) - Simple, flexible static HTML builder written in Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/maxpert/htmxido">htmxido</a></b> (🥉4 ·  ⭐ 21 · 💀) - HTMX generation in Python 3 using DSL. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/niklasf/python-tinyhtml">python-tinyhtml</a></b> (🥉4 ·  ⭐ 19 · 💤) - A tiny library to safely render compact HTML5 from.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/rohitgirdhar/PyHTMLWriter">PyHTMLWriter</a></b> (🥉4 ·  ⭐ 5 · 💀) - HTML Writer in Python. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/Strovsk/pytagtree">pytagtree</a></b> (🥉4 ·  ⭐ 1 · 💀) - Create markup tag trees using python code with component like structure. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/ClimenteA/htmgem">htmgem</a></b> (🥉3 ·  ⭐ 4 · 💀) - Generate HTML with Python. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/Anikeshpatel/dompy">Anikeshpatel/dompy</a></b> (🥉3 ·  ⭐ 3 · 💀) - JavaScript Dom Api for Python, Html Parser and a Web.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
+- <b><a href="https://github.com/ctoscano/SliqueHTML">SliqueHTML</a></b> (🥉3 ·  ⭐ 2 · 💀) - Python library that lets you create HTML using DOM-like objects. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/scrussell24/hype-html">hype-html</a></b> (🥉3 ·  ⭐ 2 · 💀) - A minimal python dsl for generating html. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/butvinm/markpy">markpy</a></b> (🥉3 ·  ⭐ 1 · 💀) - Embedding tree markup syntax (XML) into Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/skitschy/pyHTML5builder">pyHTML5builder</a></b> (🥉3 · 💀) -  <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/doctorOb/dompy">doctorOb/dompy</a></b> (🥉3 · 💀) - Javascript DOM objects in python. Parse html like you would in.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/MassiminoilTrace/PythonBoostrapWebBuilder">PythonBoostrapWebBuilder</a></b> (🥉3 · 💀) - Helper class to generate simple html pages using.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
+- <b><a href="https://github.com/wangxl1998/Python-HTML-Parser">Python-HTML-Parser</a></b> (🥉3 · 💀) - Simple HTML DOM Parser written in python. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/m-housh/bootstrap_wrapper">bootstrap_wrapper</a></b> (🥉3 · 💀) - A work in progress, a python library(almost) that uses.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/tlonny/pdoo">pdoo</a></b> (🥉2 ·  ⭐ 1 · 💀) - PDOO (Python DOM Orchestrator) is a library for generating styled HTML.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/marcuwynu23/JS-templater-python">JS-templater-python</a></b> (🥉1 ·  ⭐ 2 · 💀) - Flask Library/Tool to use pure DOM javascript render.. <code>❗Unlicensed</code>
+</details>
+<br>
+
+## HTML Form Generation
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+_Projects for generating HTML forms_
+
+<details><summary><b><a href="https://github.com/pallets-eco/wtforms">wtforms</a></b> (🥇28 ·  ⭐ 1.6K · ➕) - A flexible forms validation and rendering library for Python. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+
+- [GitHub](https://github.com/pallets-eco/wtforms) (👨‍💻 170 · 🔀 400 · 📥 37 · 📦 260K · 📋 470 - 13% open · ⏱️ 22.08.2025):
+
+	```
+	git clone https://github.com/pallets-eco/wtforms
+	```
+</details>
+<details><summary>Show 3 hidden projects...</summary>
+
+- <b><a href="https://github.com/Pylons/deform">deform</a></b> (🥈20 ·  ⭐ 420 · ➕) - A Python HTML form library. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/boardpack/reforms">reforms</a></b> (🥉5 ·  ⭐ 25 · 💀) - Reforms is a fresh pydantic-based forms validation and rendering library.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/BlitzJB/blitz-forms">blitz-forms</a></b> (🥉4 · 💀) - python library to programmatically generate html forms. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+</details>
+<br>
+
+## Related Projects
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+_Projects for related to HTML generation_
+
+<details><summary><b><a href="https://github.com/pydantic/FastUI">fastui</a></b> (🥇25 ·  ⭐ 8.9K · ➕) - Build better UIs faster.</summary>
+
+
+---
+
+<br>
+
+ _1 projects are hidden because they don't fulfill the minimal requirements._
+
+---
+</details>
+<details><summary>Show 3 hidden projects...</summary>
+
+- <b><a href="https://github.com/PyHAT-stack/awesome-python-htmx">awesome-python-htmx</a></b> (🥈11 ·  ⭐ 1.3K · 💀) - A curated list of things related to python-based web.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/liveviews/liveviews">liveviews</a></b> (🥈7 ·  ⭐ 490 · 💤) - Phoenix LiveView workalikes for different languages and.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/metaperl/pure-python-web-development">pure-python-web-development</a></b> (🥉6 ·  ⭐ 100 · 💀) - Avoid the CSS/JS/HTML soup - develop web apps.. <code>❗Unlicensed</code>
+</details>
+<br>
+
+## Others
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+🔗&nbsp;<b><a href="https://www.youtube.com/watch?v=zJNkIJCQohU">Why Kotlin Is The Best Language (to use with htmx) - YouTube</a></b>  
 
 
 ---
