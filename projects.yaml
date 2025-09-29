@@ -3,17 +3,330 @@ configuration:
   markdown_footer_file: "config/footer.md"
 
 categories:
-  # - category: "data-engineering"
-  #   title: "Machine Learning & Data Engineering"
-  #   subtitle: "Best-of lists about machine learning, data engieering, data science, or other topics related to big data."
+  - category: "miscellaneous"
+    title: "Miscellaneous"
+    subtitle: "If you can think of a more appropriate category for the items below, PRs welcome!"
+  - category: "html-generation"
+    title: "HTML Generation"
+    subtitle: "Projects for generating HTML"
+  - category: "html-form-generation"
+    title: "HTML Form Generation"
+    subtitle: "Projects for generating HTML forms"
+  - category: "related-projects"
+    title: "Related Projects"
+    subtitle: "Projects for related to HTML generation"
 
 labels:
-  # - label: "python"
-  #   image: "https://www.python.org/static/favicon.ico"
-  #   description: "Best-of list with Python projects"
 
 projects:
-  # - name: best-of-ml-python
-  #   github_id: ml-tooling/best-of-ml-python
-  #   labels: ["python"]
-  #   category: "data-engineering"
+  - name: "lxml"
+    github_id: "lxml/lxml"
+    category: "html-generation"
+    labels:
+  - name: "pyxl4"
+    github_id: "pyxl4/pyxl4"
+    category: "html-generation"
+    labels:
+  - name: "pyxl"
+    github_id: "dropbox/pyxl"
+    category: "html-generation"
+    labels:
+  - name: "python-htmlgen"
+    github_id: "srittau/python-htmlgen"
+    category: "html-generation"
+    labels:
+  - name: "hyperpython"
+    github_id: "ejplatform/hyperpython"
+    category: "html-generation"
+    labels:
+  - name: "cottonmouth"
+    github_id: "nosamanuel/cottonmouth"
+    category: "html-generation"
+    labels:
+  - name: "PyHTMLWriter"
+    github_id: "rohitgirdhar/PyHTMLWriter"
+    category: "html-generation"
+    labels:
+  - name: "pyplater"
+    github_id: "Unviray/pyplater"
+    category: "html-generation"
+    labels:
+  - name: "htmltree"
+    github_id: "Michael-F-Ellis/htmltree"
+    category: "html-generation"
+    labels:
+  - name: "flask-htmlbuilder"
+    github_id: "quokkaproject/flask-htmlbuilder"
+    category: "html-generation"
+    labels:
+  - name: "fast_html"
+    github_id: "pcarbonn/fast_html"
+    category: "html-generation"
+    labels:
+  - name: "pytagtree"
+    github_id: "Strovsk/pytagtree"
+    category: "html-generation"
+    labels:
+  - name: "hyperscript"
+    github_id: "vchan/hyperscript"
+    category: "html-generation"
+    labels:
+  - name: "python-tinyhtml"
+    github_id: "niklasf/python-tinyhtml"
+    category: "html-generation"
+    labels:
+  - name: "htmgem"
+    github_id: "ClimenteA/htmgem"
+    category: "html-generation"
+    labels:
+  - name: "pyhtml"
+    github_id: "cenkalti/pyhtml"
+    category: "html-generation"
+    labels:
+  - name: "htbuilder"
+    github_id: "tvst/htbuilder"
+    category: "html-generation"
+    labels:
+  - name: "yattag"
+    github_id: "leforestier/yattag"
+    category: "html-generation"
+    labels:
+  - name: "domify"
+    github_id: "Parnassius/domify"
+    category: "html-generation"
+    labels:
+  - name: "htmltag"
+    github_id: "LiftoffSoftware/htmltag"
+    category: "html-generation"
+    labels:
+  - name: "MarkupPy"
+    github_id: "tylerbakke/MarkupPy"
+    category: "html-generation"
+    labels:
+  - name: "auditorium"
+    github_id: "apiad/auditorium"
+    category: "html-generation"
+    labels:
+  - name: "pyHTML5builder"
+    github_id: "skitschy/pyHTML5builder"
+    category: "html-generation"
+    labels:
+  - name: "htmlgenerator"
+    github_id: "basxsoftwareassociation/htmlgenerator"
+    category: "html-generation"
+    labels:
+  - name: "SliqueHTML"
+    github_id: "ctoscano/SliqueHTML"
+    category: "html-generation"
+    labels:
+  - name: "pyhead"
+    github_id: "CheeseCake87/pyhead"
+    category: "html-generation"
+    labels:
+  - name: "tagz"
+    github_id: "mosquito/tagz"
+    category: "html-generation"
+    labels:
+  - name: "dominate"
+    github_id: "Knio/dominate"
+    category: "html-generation"
+    group: True
+    group_id: "knio/dominate"
+    labels:
+  - name: "TemPy"
+    github_id: "Hrabal/TemPy"
+    category: "html-generation"
+    labels:
+  - name: "uidom"
+    github_id: "bitplorer/uidom"
+    category: "html-generation"
+    labels:
+  - name: "pdoo"
+    github_id: "tlonny/pdoo"
+    category: "html-generation"
+    labels:
+  - name: "INUI"
+    github_id: "MohammadrezaAmani/INUI"
+    category: "html-generation"
+    labels:
+  - name: "html5tagger"
+    github_id: "sanic-org/html5tagger"
+    category: "html-generation"
+    labels:
+  - name: "Rattlepy"
+    github_id: "frodo821/Rattlepy"
+    category: "html-generation"
+    labels:
+  - name: "lys"
+    github_id: "mdamien/lys"
+    category: "html-generation"
+    labels:
+  - name: "liku"
+    github_id: "rorre/liku"
+    category: "html-generation"
+    labels:
+  - name: "hype-html"
+    github_id: "scrussell24/hype-html"
+    category: "html-generation"
+    labels:
+  - name: "sierra"
+    github_id: "BrainStormYourWayIn/sierra"
+    category: "html-generation"
+    labels:
+  - name: "html_generators"
+    github_id: "quadrant-newmedia/html_generators"
+    category: "html-generation"
+    labels:
+  - name: "simple_html"
+    github_id: "keithasaurus/simple_html"
+    category: "html-generation"
+    labels:
+  - name: "jinjax-ui"
+    github_id: "jpsca/jinjax-ui"
+    category: "html-generation"
+    labels:
+  - name: "markyp"
+    github_id: "volfpeter/markyp"
+    category: "html-generation"
+    group: True
+    group_id: "volfpeter/markyp"
+    labels:
+  - name: "markyp-html"
+    github_id: "volfpeter/markyp-html"
+    category: "html-generation"
+    group_id: "volfpeter/markyp"
+    labels:
+  - name: "markyp-bootstrap4"
+    github_id: "volfpeter/markyp-bootstrap4"
+    category: "html-generation"
+    group_id: "volfpeter/markyp"
+    labels:
+  - name: "markpy"
+    github_id: "butvinm/markpy"
+    category: "html-generation"
+    labels:
+  - name: "doctorOb/dompy"
+    github_id: "doctorOb/dompy"
+    category: "html-generation"
+    labels:
+  - name: "Anikeshpatel/dompy"
+    github_id: "Anikeshpatel/dompy"
+    category: "html-generation"
+    labels:
+  - name: "html5ever-python"
+    github_id: "SimonSapin/html5ever-python"
+    category: "html-generation"
+    labels:
+  - name: "thedom"
+    github_id: "timothycrosley/thedom"
+    category: "html-generation"
+    labels:
+  - name: "dominter"
+    github_id: "takd4com/dominter"
+    category: "html-generation"
+    labels:
+  - name: "wdom"
+    github_id: "miyakogi/wdom"
+    category: "html-generation"
+    labels:
+  - name: "phlex"
+    github_id: "lxndrdagreat/phlex"
+    category: "html-generation"
+    labels:
+  - name: "PythonBoostrapWebBuilder"
+    github_id: "MassiminoilTrace/PythonBoostrapWebBuilder"
+    category: "html-generation"
+    labels:
+  - name: "QuykHtml"
+    github_id: "mwd1993/QuykHtml"
+    category: "html-generation"
+    labels:
+  - name: "domonic"
+    github_id: "byteface/domonic"
+    category: "html-generation"
+    group: True
+    group_id: "byteface/domonic"
+    labels:
+  - name: "enaml-web"
+    github_id: "codelv/enaml-web"
+    category: "html-generation"
+    labels:
+  - name: "JS-templater-python"
+    github_id: "marcuwynu23/JS-templater-python"
+    category: "html-generation"
+    labels:
+  - name: "Python-HTML-Parser"
+    github_id: "wangxl1998/Python-HTML-Parser"
+    category: "html-generation"
+    labels:
+  - name: "htmxido"
+    github_id: "maxpert/htmxido"
+    category: "html-generation"
+    labels:
+  - name: "bootstrap_wrapper"
+    github_id: "m-housh/bootstrap_wrapper"
+    category: "html-generation"
+    labels:
+  - name: "htmlBuilder"
+    github_id: "jaimevp54/htmlBuilder"
+    category: "html-generation"
+    labels:
+  - name: "ludic"
+    github_id: "paveldedik/ludic"
+    category: "html-generation"
+    labels:
+  - name: "wtforms"
+    github_id: "pallets-eco/wtforms"
+    category: "html-form-generation"
+    labels:
+  - name: "reforms"
+    github_id: "boardpack/reforms"
+    category: "html-form-generation"
+    labels:
+  - name: "deform"
+    github_id: "Pylons/deform"
+    category: "html-form-generation"
+    labels:
+  - name: "blitz-forms"
+    github_id: "BlitzJB/blitz-forms"
+    category: "html-form-generation"
+    labels:
+  - name: "awesome-python-htmx"
+    github_id: "PyHAT-stack/awesome-python-htmx"
+    category: "related-projects"
+    labels:
+  - name: "liveviews"
+    github_id: "liveviews/liveviews"
+    category: "related-projects"
+    labels:
+  - name: "pure-python-web-development"
+    github_id: "metaperl/pure-python-web-development"
+    category: "related-projects"
+    labels:
+  - name: "css-generator"
+    pypi_id: "css-generator"
+    category: "related-projects"
+    labels:
+  - name: "fastui"
+    github_id: "pydantic/FastUI"
+    category: "related-projects"
+    group: True
+    group_id: "pydantic/fastui"
+    labels:
+  - name: "HTML + HTMX frontend - AKA Jinja frontend"
+    group_id: "pydantic/fastui"
+    category: "related-projects"
+    labels:
+  - name: "ezcron"
+    github_id: "byteface/ezcron"
+    category: "related-projects"
+    group_id: "byteface/domonic"
+    labels:
+  - name: "bottle-dominate"
+    github_id: "drlatech/bottle-dominate"
+    category: "related-projects"
+    group_id: "knio/dominate"
+    labels:
+  - name: "Why Kotlin Is The Best Language (to use with htmx) - YouTube"
+    homepage: "https://www.youtube.com/watch?v=zJNkIJCQohU"
+    resource: True

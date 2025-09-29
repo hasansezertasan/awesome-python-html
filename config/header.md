@@ -18,3 +18,13 @@
 This curated list contains {project_count} awesome open-source projects with a total of {stars_count} stars grouped into {category_count} categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/hasansezertasan/awesome-python-html/issues/new/choose), submit a [pull request](https://github.com/hasansezertasan/awesome-python-html/pulls), or directly edit the [projects.yaml](https://github.com/hasansezertasan/awesome-python-html/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
+
+## Motivation
+
+> This section is written assuming you "use HTML for web development."
+
+Why use Python to generate HTML...
+
+* You lose type hints, editor support, auto-completion, and all the good stuff in Python when you use template engines.
+* You create more files (HTML templates) and have to manage them. (You also might have to deal with the file system to manage overrides and such.)
+* It's pythonic, a familiar syntax, and you can use all the Python features.
