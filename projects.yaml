@@ -279,6 +279,10 @@ projects:
     github_id: "pelme/htpy"
     category: "html-generation"
     labels:
+  - name: "mohtml"
+    github_id: "koaning/mohtml"
+    category: "html-generation"
+    labels:
   - name: "wtforms"
     github_id: "pallets-eco/wtforms"
     category: "html-form-generation"
