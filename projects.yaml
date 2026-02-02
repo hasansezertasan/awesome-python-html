@@ -339,6 +339,10 @@ projects:
     category: "related-projects"
     group_id: "knio/dominate"
     labels:
+  - name: "python-hiccup"
+    github_id: "DavidVujic/python-hiccup"
+    category: "html-generation"
+    labels:
   - name: "Why Kotlin Is The Best Language (to use with htmx) - YouTube"
     homepage: "https://www.youtube.com/watch?v=zJNkIJCQohU"
     resource: True

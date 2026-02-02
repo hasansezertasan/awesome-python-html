@@ -1,4 +1,5 @@
 <!-- markdownlint-disable MD024 -->
+
 # Contribution Guidelines
 
 Thanks for your interest in contributing to our project. This page will give you a quick overview of how things are organized and, most importantly, how to get involved. Everyone is welcome to contribute, and we value everybody's contribution.
@@ -10,7 +11,8 @@ Thanks for your interest in contributing to our project. This page will give you
 3. [Improve metadata collection](#improve-metadata-collection)
 4. [Improve markdown generation](#improve-markdown-generation)
 5. [Create your own best-of list](#improve-markdown-generation)
-6. [Code of conduct](#code-of-conduct)
+6. [Conventions](#conventions)
+7. [Code of conduct](#code-of-conduct)
 
 ## Add a project
 
@@ -23,14 +25,14 @@ Before opening an issue or pull request, please ensure that you adhere to the fo
 
 - Please make sure that the project was not already added or suggested to this best-of list. You can ensure this by searching the projects.yaml, the Readme, and the issue list.
 - Add the project to the `projects.yaml` and never to the `README.md` file directly. Use the yaml format and the properties documented in the [project properties](#project-properties) section below to add a new project, for example:
-    ```yaml
-    - name: Tensorflow
-      github_id: tensorflow/tensorflow
-      pypi_id: tensorflow
-      conda_id: tensorflow
-      labels: ["tensorflow"]
-      category: ml-frameworks
-    ```
+  ```yaml
+  - name: Tensorflow
+    github_id: tensorflow/tensorflow
+    pypi_id: tensorflow
+    conda_id: tensorflow
+    labels: ["tensorflow"]
+    category: ml-frameworks
+  ```
 - Please create an individual issue or pull request for each project.
 - Please use the following title format for the issue or pull request: `Add project: project-name`.
 - If a project doesn't fit into any of the pre-existing categories, it should go under the `Others` category by not assigning any category. You can also suggest a new category via the add or update category template on the [issue page](https://github.com/hasansezertasan/awesome-python-html/issues/new/choose).
@@ -112,6 +114,41 @@ If you like to contribute to or share suggestions regarding the markdown generat
 ## Create your own best-of list
 
 If you want to create your own best-of list, we strongly recommend to follow [this guide](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md). With this guide, it will only take about 3 minutes to get you started. It is already set-up to automatically run the best-of generator via our Github Action and includes other useful template files.
+
+## Conventions
+
+### Branch naming
+
+| Change type            | Format                     | Example                  |
+| ---------------------- | -------------------------- | ------------------------ |
+| Add a project          | `feat/<github_id>`         | `feat/pelme/htpy`        |
+| Add project + category | `feat/<github_id>`         | `feat/Knio/dominate`     |
+| Documentation          | `docs/<short-description>` | `docs/add-claude-md`     |
+| Update a project       | `update/<project-name>`    | `update/htpy`            |
+
+### PR title
+
+| Change type            | Format                                                       | Example                                                              |
+| ---------------------- | ------------------------------------------------------------ | -------------------------------------------------------------------- |
+| Add a project          | `` Add `project:<github_id>` ``                              | `` Add `project:pelme/htpy` ``                                       |
+| Add project + category | `` Add `project:<github_id>` and `category:<category-id>` `` | `` Add `project:Knio/dominate` and `category:html-generation` ``     |
+| Documentation          | `docs: <description>`                                        | `docs: add CLAUDE.md for Claude Code guidance`                       |
+| Update a project       | `Update project: <name>`                                     | `Update project: htpy`                                               |
+
+### PR body
+
+Fill in the [pull request template](./.github/PULL_REQUEST_TEMPLATE.md):
+
+1. **What kind of change** — Check the appropriate box(es) with `[x]`.
+2. **Description** — Link to the project's GitHub page with a short description, e.g.:
+   ```
+   [A modern Python library for generating HTML in a functional way.](https://github.com/pelme/htpy)
+   ```
+3. **Checklist** — Check both boxes after verifying.
+
+### Commit messages
+
+This repository uses squash merges, so the final commit message matches the PR title. No special commit message format is needed in your branch.
 
 ## Code of Conduct
 
