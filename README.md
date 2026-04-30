@@ -91,9 +91,9 @@ _Projects for generating HTML_
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/lxml/lxml">lxml</a></b> (🥇32 ·  ⭐ 3K · 📉) - The lxml XML toolkit for Python. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/lxml/lxml">lxml</a></b> (🥇33 ·  ⭐ 3K · 📈) - The lxml XML toolkit for Python. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/lxml/lxml) (👨‍💻 180 · 🔀 590 · 📥 7.8K · 📦 610K · ⏱️ 23.04.2026):
+- [GitHub](https://github.com/lxml/lxml) (👨‍💻 180 · 🔀 590 · 📥 8.4K · 📦 610K · ⏱️ 24.04.2026):
 
 	```
 	git clone https://github.com/lxml/lxml
@@ -101,15 +101,15 @@ _Projects for generating HTML_
 </details>
 <details><summary><b><a href="https://github.com/pelme/htpy">htpy</a></b> (🥇18 ·  ⭐ 460) - Generate HTML in Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/pelme/htpy) (👨‍💻 17 · 🔀 29 · 📦 75 · 📋 41 - 12% open · ⏱️ 07.12.2025):
+- [GitHub](https://github.com/pelme/htpy) (👨‍💻 17 · 🔀 29 · 📦 76 · 📋 41 - 12% open · ⏱️ 07.12.2025):
 
 	```
 	git clone https://github.com/pelme/htpy
 	```
 </details>
-<details><summary><b><a href="https://github.com/getludic/ludic">ludic</a></b> (🥇15 ·  ⭐ 890) - A type-safe HTML template engine for Python. Build dynamic web pages using.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/getludic/ludic">ludic</a></b> (🥇16 ·  ⭐ 890 · 📈) - A type-safe HTML template engine for Python. Build dynamic web pages.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/getludic/ludic) (👨‍💻 10 · 🔀 20 · 📥 460 · 📦 15 · 📋 33 - 54% open · ⏱️ 13.02.2026):
+- [GitHub](https://github.com/getludic/ludic) (👨‍💻 10 · 🔀 21 · 📥 470 · 📦 15 · 📋 33 - 54% open · ⏱️ 13.02.2026):
 
 	```
 	git clone https://github.com/paveldedik/ludic
@@ -119,15 +119,15 @@ _Projects for generating HTML_
 
 - <b><a href="https://github.com/volfpeter/markyp">markyp</a></b> (🥈12 ·  ⭐ 40 · 💤) - Python 3 tools for creating markup documents.
 - <b><a href="https://github.com/Hrabal/TemPy">TemPy</a></b> (🥇16 ·  ⭐ 140 · 💀) - Python Object Oriented Html Templating System. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/apiad/auditorium">auditorium</a></b> (🥇16 ·  ⭐ 85 · 📈) - An HTML+CSS+JS generator from pure Python code. <code>❗Unlicensed</code>
-- <b><a href="https://github.com/leforestier/yattag">yattag</a></b> (🥇15 ·  ⭐ 350 · 💀) - Python library to generate HTML or XML in a readable, concise.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/apiad/auditorium">auditorium</a></b> (🥇16 ·  ⭐ 85) - An HTML+CSS+JS generator from pure Python code. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/leforestier/yattag">yattag</a></b> (🥈15 ·  ⭐ 350 · 💀) - Python library to generate HTML or XML in a readable, concise.. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/codelv/enaml-web">enaml-web</a></b> (🥈14 ·  ⭐ 110 · 💀) - Build interactive websites with enaml. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/tvst/htbuilder">htbuilder</a></b> (🥈14 ·  ⭐ 100 · 💀) - A purely-functional HTML builder for Python. Think JSX rather.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/tylerbakke/MarkupPy">MarkupPy</a></b> (🥈14 ·  ⭐ 11 · 💀) - MarkupPy - An HTML/XML generator. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/BrainStormYourWayIn/sierra">sierra</a></b> (🥈13 ·  ⭐ 91 · 💤) - A Pythonic wraparound of HTML/CSS/JS. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/sanic-org/html5tagger">html5tagger</a></b> (🥈13 ·  ⭐ 32 · 💀) - Create HTML documents from Python. <code><a href="http://bit.ly/3rvuUlR">Unlicense</a></code>
 - <b><a href="https://github.com/dropbox/pyxl">pyxl</a></b> (🥈12 ·  ⭐ 550 · 💀) - A Python extension for writing structured and reusable inline HTML. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/CheeseCake87/pyhead">pyhead</a></b> (🥈12 ·  ⭐ 5 · 📈) - The Python HTML head filler. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/CheeseCake87/pyhead">pyhead</a></b> (🥈12 ·  ⭐ 5) - The Python HTML head filler. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/basxsoftwareassociation/htmlgenerator">htmlgenerator</a></b> (🥈11 ·  ⭐ 42 · 💀) - TL;DR DOM on the server-side. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
 - <b><a href="https://github.com/jaimevp54/htmlBuilder">htmlBuilder</a></b> (🥈11 ·  ⭐ 38 · 💀) - A beautiful html builder built with python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/pyxl4/pyxl4">pyxl4</a></b> (🥈10 ·  ⭐ 90 · 💀) - Extend Python syntax with HTML. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
@@ -183,9 +183,9 @@ _Projects for generating HTML_
 
 _Projects for generating HTML forms_
 
-<details><summary><b><a href="https://github.com/pallets-eco/wtforms">wtforms</a></b> (🥇29 ·  ⭐ 1.6K · 📈) - A flexible forms validation and rendering library for Python. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/pallets-eco/wtforms">wtforms</a></b> (🥇29 ·  ⭐ 1.6K) - A flexible forms validation and rendering library for Python. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/pallets-eco/wtforms) (👨‍💻 170 · 🔀 400 · 📥 87 · 📦 260K · 📋 470 - 13% open · ⏱️ 23.04.2026):
+- [GitHub](https://github.com/pallets-eco/wtforms) (👨‍💻 170 · 🔀 400 · 📥 89 · 📦 260K · 📋 470 - 13% open · ⏱️ 23.04.2026):
 
 	```
 	git clone https://github.com/pallets-eco/wtforms
