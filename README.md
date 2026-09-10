@@ -10,12 +10,12 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-1-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-2-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/hasansezertasan/awesome-python-html/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/hasansezertasan/awesome-python-html?color=green&label=updated"></a>
 </p>
 
-This curated list contains 1 awesome open-source projects with a total of 0 stars grouped into 4 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/hasansezertasan/awesome-python-html/issues/new/choose), submit a [pull request](https://github.com/hasansezertasan/awesome-python-html/pulls), or directly edit the [projects.yaml](https://github.com/hasansezertasan/awesome-python-html/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 2 awesome open-source projects with a total of 0 stars grouped into 4 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/hasansezertasan/awesome-python-html/issues/new/choose), submit a [pull request](https://github.com/hasansezertasan/awesome-python-html/pulls), or directly edit the [projects.yaml](https://github.com/hasansezertasan/awesome-python-html/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
@@ -34,7 +34,7 @@ Why use Python to generate HTML...
 - [Miscellaneous](#miscellaneous) _0 projects_
 - [HTML Generation](#html-generation) _0 projects_
 - [HTML Form Generation](#html-form-generation) _0 projects_
-- [Related Projects](#related-projects) _0 projects_
+- [Related Projects](#related-projects) _1 projects_
 - [Others](#others) _1 projects_
 
 ## Explanation
@@ -85,6 +85,17 @@ _Projects for generating HTML forms_
 
 _Projects for related to HTML generation_
 
+<details><summary><b><a href="https://github.com/pydantic/FastUI">fastui</a></b> (🥇19 ·  ⭐ 8.9K · 💤) - Build better UIs faster.</summary>
+
+
+---
+
+<br>
+
+ _1 projects are hidden because they don't fulfill the minimal requirements._
+
+---
+</details>
 <br>
 
 ## Others
