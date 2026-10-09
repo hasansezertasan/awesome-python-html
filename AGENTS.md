@@ -61,7 +61,7 @@ Manual trigger: Run workflow from GitHub Actions with optional version input.
 
 ### Contribution Conventions
 
-See `CONTRIBUTING.md` for full details. Key points:
+See `.github/CONTRIBUTING.md` for full details. Key points:
 
 - **One project per PR/issue**
 - **Branch naming**: `feat/<github_id>` for projects, `docs/<description>` for docs

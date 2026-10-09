@@ -14,7 +14,7 @@ Contributions are encouraged and always welcome! If you like to add or update pr
 
 If you like to contribute to or share suggestions regarding the project metadata collection or markdown generation, please refer to the [best-of-generator](https://github.com/best-of-lists/best-of-generator) repository. If you like to create your own best-of list, we recommend to follow [this guide](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
-For more information on how to add or update projects, please read the [contribution guidelines](https://github.com/hasansezertasan/awesome-python-html/blob/main/CONTRIBUTING.md). By participating in this project, you agree to abide by its [Code of Conduct](https://github.com/hasansezertasan/awesome-python-html/blob/main/.github/CODE_OF_CONDUCT.md).
+For more information on how to add or update projects, please read the [contribution guidelines](https://github.com/hasansezertasan/awesome-python-html/blob/main/.github/CONTRIBUTING.md). By participating in this project, you agree to abide by its [Code of Conduct](https://github.com/hasansezertasan/awesome-python-html/blob/main/.github/CODE_OF_CONDUCT.md).
 
 ## License
 
