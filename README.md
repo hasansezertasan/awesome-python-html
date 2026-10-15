@@ -69,7 +69,7 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 
 _Projects for generating HTML_
 
-<details><summary><b><a href="https://github.com/Knio/dominate">dominate</a></b> (🥇23 ·  ⭐ 1.8K · 📈) - Dominate is a Python library for creating and manipulating HTML documents..</summary>
+<details><summary><b><a href="https://github.com/Knio/dominate">dominate</a></b> (🥇23 ·  ⭐ 1.8K) - Dominate is a Python library for creating and manipulating HTML documents..</summary>
 
 
 ---
@@ -80,7 +80,7 @@ _Projects for generating HTML_
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/byteface/domonic">domonic</a></b> (🥇21 ·  ⭐ 170 · 📈) - Python DOM and HTML toolkit - generate, parse and manipulate HTML/XML/SVG..</summary>
+<details><summary><b><a href="https://github.com/byteface/domonic">domonic</a></b> (🥇21 ·  ⭐ 170) - Python DOM and HTML toolkit - generate, parse and manipulate HTML/XML/SVG with..</summary>
 
 
 ---
@@ -91,17 +91,17 @@ _Projects for generating HTML_
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/lxml/lxml">lxml</a></b> (🥇32 ·  ⭐ 3.1K · 📈) - The lxml XML toolkit for Python. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/lxml/lxml">lxml</a></b> (🥇32 ·  ⭐ 3.1K) - The lxml XML toolkit for Python. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/lxml/lxml) (👨‍💻 180 · 🔀 630 · 📥 6.5K · 📦 630K · ⏱️ 07.10.2026):
+- [GitHub](https://github.com/lxml/lxml) (👨‍💻 180 · 🔀 630 · 📥 7.7K · 📦 630K · ⏱️ 07.10.2026):
 
 	```
 	git clone https://github.com/lxml/lxml
 	```
 </details>
-<details><summary><b><a href="https://github.com/pelme/htpy">htpy</a></b> (🥇18 ·  ⭐ 480) - Generate HTML in Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/pelme/htpy">htpy</a></b> (🥇18 ·  ⭐ 490) - Generate HTML in Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/pelme/htpy) (👨‍💻 17 · 🔀 30 · 📦 120 · 📋 43 - 16% open · ⏱️ 22.05.2026):
+- [GitHub](https://github.com/pelme/htpy) (👨‍💻 17 · 🔀 31 · 📦 130 · 📋 44 - 18% open · ⏱️ 22.05.2026):
 
 	```
 	git clone https://github.com/pelme/htpy
@@ -122,10 +122,10 @@ _Projects for generating HTML_
 - <b><a href="https://github.com/leforestier/yattag">yattag</a></b> (🥇15 ·  ⭐ 350 · 💀) - Python library to generate HTML or XML in a readable, concise.. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/codelv/enaml-web">enaml-web</a></b> (🥈14 ·  ⭐ 110 · 💀) - Build interactive websites with enaml. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/tvst/htbuilder">htbuilder</a></b> (🥈14 ·  ⭐ 100 · 💀) - A purely-functional HTML builder for Python. Think JSX rather.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/apiad/auditorium">auditorium</a></b> (🥈14 ·  ⭐ 88) - An HTML+CSS+JS generator from pure Python code. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/apiad/auditorium">auditorium</a></b> (🥈14 ·  ⭐ 89) - An HTML+CSS+JS generator from pure Python code. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/sanic-org/html5tagger">html5tagger</a></b> (🥈14 ·  ⭐ 33) - Create HTML documents from Python. <code><a href="http://bit.ly/3rvuUlR">Unlicense</a></code>
 - <b><a href="https://github.com/tylerbakke/MarkupPy">MarkupPy</a></b> (🥈14 ·  ⭐ 10) - MarkupPy - An HTML/XML generator. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/BrainStormYourWayIn/sierra">sierra</a></b> (🥈13 ·  ⭐ 91) - A Pythonic wraparound of HTML/CSS/JS. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/BrainStormYourWayIn/sierra">sierra</a></b> (🥈13 ·  ⭐ 92) - A Pythonic wraparound of HTML/CSS/JS. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/dropbox/pyxl">pyxl</a></b> (🥈12 ·  ⭐ 550 · 💀) - A Python extension for writing structured and reusable inline HTML. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/basxsoftwareassociation/htmlgenerator">htmlgenerator</a></b> (🥈12 ·  ⭐ 42) - TL;DR DOM on the server-side. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
 - <b><a href="https://github.com/DavidVujic/python-hiccup">python-hiccup</a></b> (🥈11 ·  ⭐ 76) - a Python implementation of the Hiccup syntax. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
@@ -143,7 +143,7 @@ _Projects for generating HTML_
 - <b><a href="https://github.com/mosquito/tagz">tagz</a></b> (🥈9 ·  ⭐ 7) - tagz is a html tags builder. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/CheeseCake87/pyhead">pyhead</a></b> (🥈9 ·  ⭐ 6) - The Python HTML head filler. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/pcarbonn/fast_html">fast_html</a></b> (🥉8 ·  ⭐ 110 · 💀) - Generate HTML conveniently and efficiently in Python. <code><a href="http://bit.ly/37RvQcA">❗️LGPL-3.0</a></code>
-- <b><a href="https://github.com/cenkalti/pyhtml">pyhtml</a></b> (🥉8 ·  ⭐ 75 · 💀) - HTML generation library for Python. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/cenkalti/pyhtml">pyhtml</a></b> (🥉8 ·  ⭐ 74 · 💀) - HTML generation library for Python. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/keithasaurus/simple_html">simple_html</a></b> (🥉7 ·  ⭐ 51 · 💤) - fast, templateless html generation. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/timothycrosley/thedom">thedom</a></b> (🥉7 ·  ⭐ 24 · 💀) - A python framework to generate html and JavaScript from reusable.. <code><a href="http://bit.ly/2KucAZR">❗️GPL-2.0</a></code>
 - <b><a href="https://github.com/frodo821/Rattlepy">Rattlepy</a></b> (🥉7 ·  ⭐ 9 · 💀) - A easy-to-use pure python HTML template engine. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
@@ -183,7 +183,7 @@ _Projects for generating HTML_
 
 _Projects for generating HTML forms_
 
-<details><summary><b><a href="https://github.com/pallets-eco/wtforms">wtforms</a></b> (🥇29 ·  ⭐ 1.6K · 📈) - A flexible forms validation and rendering library for Python. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/pallets-eco/wtforms">wtforms</a></b> (🥇29 ·  ⭐ 1.6K) - A flexible forms validation and rendering library for Python. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
 - [GitHub](https://github.com/pallets-eco/wtforms) (👨‍💻 180 · 🔀 400 · 📥 200 · 📦 260K · 📋 480 - 5% open · ⏱️ 29.06.2026):
 
@@ -193,7 +193,7 @@ _Projects for generating HTML forms_
 </details>
 <details><summary>Show 3 hidden projects...</summary>
 
-- <b><a href="https://github.com/Pylons/deform">deform</a></b> (🥈22 ·  ⭐ 420 · 📈) - A Python HTML form library. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/Pylons/deform">deform</a></b> (🥈22 ·  ⭐ 420) - A Python HTML form library. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/boardpack/reforms">reforms</a></b> (🥉5 ·  ⭐ 25 · 💀) - Reforms is a fresh pydantic-based forms validation and rendering library.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/BlitzJB/blitz-forms">blitz-forms</a></b> (🥉4 · 💀) - python library to programmatically generate html forms. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 </details>
@@ -246,7 +246,7 @@ Contributions are encouraged and always welcome! If you like to add or update pr
 
 If you like to contribute to or share suggestions regarding the project metadata collection or markdown generation, please refer to the [best-of-generator](https://github.com/best-of-lists/best-of-generator) repository. If you like to create your own best-of list, we recommend to follow [this guide](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
-For more information on how to add or update projects, please read the [contribution guidelines](https://github.com/hasansezertasan/awesome-python-html/blob/main/CONTRIBUTING.md). By participating in this project, you agree to abide by its [Code of Conduct](https://github.com/hasansezertasan/awesome-python-html/blob/main/.github/CODE_OF_CONDUCT.md).
+For more information on how to add or update projects, please read the [contribution guidelines](https://github.com/hasansezertasan/awesome-python-html/blob/main/.github/CONTRIBUTING.md). By participating in this project, you agree to abide by its [Code of Conduct](https://github.com/hasansezertasan/awesome-python-html/blob/main/.github/CODE_OF_CONDUCT.md).
 
 ## License
 

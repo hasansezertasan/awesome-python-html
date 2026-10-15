@@ -1,10 +1,1 @@
-## 📈 Trending Up
-
-_Projects that have a higher project-quality score compared to the last update. There might be a variety of reasons, such as increased downloads or code activity._
-
-- <b><a href="https://github.com/Knio/dominate">dominate</a></b> (🥇23 ·  ⭐ 1.8K · 📈) - Dominate is a Python library for creating and manipulating HTML documents..
-- <b><a href="https://github.com/byteface/domonic">domonic</a></b> (🥇21 ·  ⭐ 170 · 📈) - Python DOM and HTML toolkit - generate, parse and manipulate HTML/XML/SVG..
-- <b><a href="https://github.com/lxml/lxml">lxml</a></b> (🥇32 ·  ⭐ 3.1K · 📈) - The lxml XML toolkit for Python. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
-- <b><a href="https://github.com/pallets-eco/wtforms">wtforms</a></b> (🥇29 ·  ⭐ 1.6K · 📈) - A flexible forms validation and rendering library for Python. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
-- <b><a href="https://github.com/Pylons/deform">deform</a></b> (🥈22 ·  ⭐ 420 · 📈) - A Python HTML form library. <code>❗Unlicensed</code>
-
+Nothing changed from last update.
