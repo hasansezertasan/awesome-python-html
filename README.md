@@ -93,13 +93,13 @@ _Projects for generating HTML_
 </details>
 <details><summary><b><a href="https://github.com/lxml/lxml">lxml</a></b> (🥇32 ·  ⭐ 3.1K) - The lxml XML toolkit for Python. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/lxml/lxml) (👨‍💻 180 · 🔀 630 · 📥 7.7K · 📦 630K · ⏱️ 07.10.2026):
+- [GitHub](https://github.com/lxml/lxml) (👨‍💻 180 · 🔀 630 · 📥 7.9K · 📦 630K · ⏱️ 21.10.2026):
 
 	```
 	git clone https://github.com/lxml/lxml
 	```
 </details>
-<details><summary><b><a href="https://github.com/pelme/htpy">htpy</a></b> (🥇18 ·  ⭐ 490) - Generate HTML in Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/pelme/htpy">htpy</a></b> (🥇18 ·  ⭐ 480) - Generate HTML in Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/pelme/htpy) (👨‍💻 17 · 🔀 31 · 📦 130 · 📋 44 - 18% open · ⏱️ 22.05.2026):
 
@@ -151,11 +151,11 @@ _Projects for generating HTML_
 - <b><a href="https://github.com/Unviray/pyplater">pyplater</a></b> (🥉6 ·  ⭐ 12 · 💀) - Build html component with python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/quokkaproject/flask-htmlbuilder">flask-htmlbuilder</a></b> (🥉6 ·  ⭐ 11 · 💀) - Builds HTML from Python (recovered from local.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
 - <b><a href="https://github.com/rorre/liku">liku</a></b> (🥉6 ·  ⭐ 5 · 💀) - Python HTML templating, inspired by modern Web Development. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/bitplorer/uidom">uidom</a></b> (🥉6 ·  ⭐ 3 · 💀) - Blade like HTML Library for Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/mdamien/lys">lys</a></b> (🥉5 ·  ⭐ 76 · 💀) - Simple HTML templating for Python. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/ejplatform/hyperpython">hyperpython</a></b> (🥉5 ·  ⭐ 59) - Unmaintained. Superseded by htpy. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/nosamanuel/cottonmouth">cottonmouth</a></b> (🥉5 ·  ⭐ 15 · 💀) - Pure-Python HTML generation. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
 - <b><a href="https://github.com/quadrant-newmedia/html_generators">html_generators</a></b> (🥉5 ·  ⭐ 9 · 💀) - Functional, streaming HTML generation. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/bitplorer/uidom">uidom</a></b> (🥉5 ·  ⭐ 2 · 💀) - Blade like HTML Library for Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/lxndrdagreat/phlex">phlex</a></b> (🥉5 · 💀) - Simple, flexible static HTML builder written in Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/SimonSapin/html5ever-python">html5ever-python</a></b> (🥉4 ·  ⭐ 39 · 💀) - Python bindings for html5ever, using CFFI. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/maxpert/htmxido">htmxido</a></b> (🥉4 ·  ⭐ 21 · 💀) - HTMX generation in Python 3 using DSL. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
@@ -183,9 +183,9 @@ _Projects for generating HTML_
 
 _Projects for generating HTML forms_
 
-<details><summary><b><a href="https://github.com/pallets-eco/wtforms">wtforms</a></b> (🥇29 ·  ⭐ 1.6K) - A flexible forms validation and rendering library for Python. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/pallets-eco/wtforms">wtforms</a></b> (🥇31 ·  ⭐ 1.6K · 📈) - A flexible forms validation and rendering library for Python. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/pallets-eco/wtforms) (👨‍💻 180 · 🔀 400 · 📥 200 · 📦 260K · 📋 480 - 5% open · ⏱️ 29.06.2026):
+- [GitHub](https://github.com/pallets-eco/wtforms) (👨‍💻 180 · 🔀 400 · 📥 210 · 📦 260K · 📋 480 - 5% open · ⏱️ 22.10.2026):
 
 	```
 	git clone https://github.com/pallets-eco/wtforms
