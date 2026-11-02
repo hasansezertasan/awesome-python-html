@@ -9,41 +9,41 @@ eol = "lf"
   [[fragment.files]]
   name = "JetBrains"
   path = "Global/JetBrains.gitignore"
-  commit = "0e5d690153ca3da8a4a1aef2d053406f408f531c"
-  blob = "6e0af9c4ea28faa6546c1f7a02e98eccb4948192"
+  commit = "6bb5af7a1b050e5add3a71b6e6365c93498822ac"
+  blob = "5dd44ca4c86e7599ec491bfb25142dfafb8d6241"
 
   [[fragment.files]]
   name = "Node"
   path = "Node.gitignore"
-  commit = "0e5d690153ca3da8a4a1aef2d053406f408f531c"
-  blob = "1301e01e5873a3fe085e2d5756824ee9d9171133"
+  commit = "6bb5af7a1b050e5add3a71b6e6365c93498822ac"
+  blob = "73fe080e66af96f77da5106cfd5c3534aa58ecaf"
 
   [[fragment.files]]
   name = "Python"
   path = "Python.gitignore"
-  commit = "0e5d690153ca3da8a4a1aef2d053406f408f531c"
-  blob = "6f596e17917419c463b0d15bf1f0bce19b8918eb"
+  commit = "6bb5af7a1b050e5add3a71b6e6365c93498822ac"
+  blob = "6ff7378f20ee9570a320cf59ae0fe9c5b100e722"
 
   [[fragment.files]]
   name = "VisualStudioCode"
   path = "Global/VisualStudioCode.gitignore"
-  commit = "0e5d690153ca3da8a4a1aef2d053406f408f531c"
+  commit = "6bb5af7a1b050e5add3a71b6e6365c93498822ac"
   blob = "12ee62bbb7c5fb3449386f0580fe3ca09a64d173"
 
   [[fragment.files]]
   name = "macOS"
   path = "Global/macOS.gitignore"
-  commit = "0e5d690153ca3da8a4a1aef2d053406f408f531c"
+  commit = "6bb5af7a1b050e5add3a71b6e6365c93498822ac"
   blob = "e5328c061b39eb6a3ab3a4310a2a0a0dfb3b2ec8"
 
   [[fragment.files]]
   name = "Windows"
   path = "Global/Windows.gitignore"
-  commit = "0e5d690153ca3da8a4a1aef2d053406f408f531c"
+  commit = "6bb5af7a1b050e5add3a71b6e6365c93498822ac"
   blob = "84bffec74db3273565f4c9b3e9ffcc216cec1611"
 
   [[fragment.files]]
   name = "Linux"
   path = "Global/Linux.gitignore"
-  commit = "0e5d690153ca3da8a4a1aef2d053406f408f531c"
+  commit = "6bb5af7a1b050e5add3a71b6e6365c93498822ac"
   blob = "35ea8c67239c3542d012454da948096a52d1bf06"
